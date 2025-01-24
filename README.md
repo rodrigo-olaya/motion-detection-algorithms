@@ -1,1 +1,1 @@
-# motion-detection-algorithms
+# Motion Detection Algorithms
